@@ -3,7 +3,7 @@
 I'm currently learning and mastering the **MERN stack**!
 
 Want an organized look at all of my projects so far? 
-Come visit my portfolio at [seanjulagay.github.io/portfolio](seanjulagay.github.io/portfolio)! See you there!
+Come visit my portfolio at [seanjulagay.github.io/portfolio](https://seanjulagay.github.io/portfolio/)! See you there!
 
 <!--
 **seanjulagay/seanjulagay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
